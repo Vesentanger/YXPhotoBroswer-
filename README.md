@@ -4,5 +4,5 @@
 将CorePhotoBroswerVC和YXPhotoBroswerViewController两个文件夹拖入项目中
 传入imageView数组调用YXPhotoBroswerViewController即可，详情请看Demo
 #效果图
-https://github.com/Vesentanger/YXPhotoBroswer-/blob/master/截图2.png
-https://github.com/Vesentanger/YXPhotoBroswer-/blob/master/截图1.png
+![image](https://github.com/Vesentanger/YXPhotoBroswer-/blob/master/截图2.png)
+![image](https://github.com/Vesentanger/YXPhotoBroswer-/blob/master/截图1.png)
